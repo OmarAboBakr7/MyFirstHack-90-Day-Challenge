@@ -1,4 +1,3 @@
-#note
 ## Why You're Here?
 ### Why be curious about Cyber Security?
 
