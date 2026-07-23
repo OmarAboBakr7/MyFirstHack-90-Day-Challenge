@@ -64,7 +64,7 @@ ___
 
 1. **In simple terms, what is cybersecurity?**
    - Building websites and apps
-   - <font color="#619efa">Protecting computers, networks, and data from attacks</font>
+   - **Protecting computers, networks, and data from attacks**
    - Fixing broken computers
    - Creating software programs
 
@@ -72,7 +72,7 @@ ___
 
 2. **What is the main difference between a SOC Analyst and a GRC Analyst?**
    - SOC Analysts earn more money
-   - <font color="#619efa">SOC Analysts monitor and investigate threats, GRC Analysts focus on policies, risk, and compliance</font>
+   - **OC Analysts monitor and investigate threats, GRC Analysts focus on policies, risk, and compliance**
    - GRC Analysts need a degree, SOC Analysts don't
    - There is no difference
 
@@ -81,14 +81,14 @@ ___
 3. **What do you need to get an entry-level cybersecurity job?**
    - A computer science degree
    - 5 years of experience
-   - <font color="#619efa">Knowledge, practical skills, and the ability to prove you can do the work</font>
+   - **Knowledge, practical skills, and the ability to prove you can do the work**
    - Expert-level coding ability
 
 	Employers value demonstrable skills and knowledge over formal credentials. Build projects and prove your abilities.
 
 4. **Why do most beginners fail to break into cybersecurity?**
    - The industry isn't hiring
-   - They lack structure, try to learn randomly, and quit too early
+   - **They lack structure, try to learn randomly, and quit too early**
    - They're not smart enough
    - They need expensive equipment
 
@@ -97,7 +97,7 @@ ___
 5. **When will you choose between the SOC Analyst and GRC Analyst track in this program?**
    - Day 1
    - Day 30
-   - <font color="#619efa">After Day 120 when you've built your foundation</font>
+   - **After Day 120 when you've built your foundation**
    - After you get hired
 
 	You'll build a strong foundation first, then specialize after Day 120 when you understand both paths well enough to choose.
