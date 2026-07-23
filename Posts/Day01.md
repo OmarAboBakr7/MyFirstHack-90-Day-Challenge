@@ -3,4 +3,5 @@ First assignment: run my own email through HaveIBeenPwned. Turns out I'm in **2*
 **I'm excited to learn about cybersecurity**
 Following MyFirstHack's 90-day path from beginner to cybersecurity foundations. 30 minutes a day, one concept at a time. Documenting the whole thing here.
 If you're in cyber or also learning, let's connect — I'll be posting every day.
+
 #myfirsthack
