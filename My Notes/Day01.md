@@ -116,7 +116,6 @@ Head to haveibeenpwned.com and type in your primary email. The site cross-checks
 
 Most people walk away with 5-15 breaches they never heard about. Some find 30+. One of our testers found her email in a breach from a flower delivery site she used once in 2014.
 
-> [!text]
 > What to capture
 > 
 > - Total number of breaches your email appears in
@@ -158,7 +157,6 @@ Open **LinkedIn** in a new tab, head to the Jobs section, and search **"SOC A
 
 Scroll to the "Requirements" section of each one. You're going to see the same words again and again — SIEM, Splunk, ISO 27001, incident response, risk assessment. Right now they sound like a foreign language. That's the whole point.
 
-> [!text]
 > What to capture
 > 
 > - The 5 most common requirements you see repeated across all 5 listings
@@ -176,7 +174,6 @@ ___
 
 This is where you stop being invisible. Posting daily turns your learning into a public track record — recruiters find you, people in the industry connect with you, and opportunities show up in your inbox that would never have reached you otherwise. One short post a day, 90 days, and by the end you've built something almost nobody breaking into this field has: proof, a network, and a reputation — before you've even applied for a job.
 
-> [!info]
 > Before You Post
 > 
 > **Don't have LinkedIn yet?**
